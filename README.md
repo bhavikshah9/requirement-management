@@ -1,4 +1,4 @@
-# requirement-management
+# Requirement Management
 Batch Script for Requirement management
 
 ## Scenario
@@ -27,6 +27,11 @@ This Script has three modes:
 2. If you pass 'm' as an argument, it will open current month directory under current year directory. 'm' stands for month.
 3. If you don't pass any argument, it will ask for the name of the requirement and create folder with same name and open that folder.
 
+## Setup
+1. Download batch file.
+2. Make sure that you save the file in the directory which exists in PATH environment variable. If it is not, you will have to add it.
+3. That's it. Start using it.
+
 Please note, this script is localization dependent.
 
-Suggestions are welcomed. If you notice any issues, please raise them.
+Suggestions are welcomed. If you notice any issues, please raise them [here](https://github.com/bhavikshah9/requirement-management/issues)
